@@ -1,5 +1,7 @@
 # IndividualProjectProposal
 
+## Fitness App
+
 ## A one paragraph description of the overall project 
 The application I want to create is a fitness app that people can use to track and manage their health. The application will allow users to track their weight, daily steps, glucose levels, calories intake, heart rate, blood pressure  and alot more. The app will encourage consumers to take an active role in their health management by offering rewards and other incentives to improve your health. The application will contain videos which offer educational lessons about how to   reduce cholesterol, blood pressure, and more. Another aspect of the app would be an exercise tab, which will have videos of  different muscle groups you can workout. Another functionality of the app will be that the user can interact with a physician  to ask any questions you may have about better managing your health.
 	
